@@ -1,0 +1,2 @@
+# supertrunfo
+cadastramento de cartas
