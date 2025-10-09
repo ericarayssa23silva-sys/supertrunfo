@@ -1,1 +1,21 @@
+[
+  {
+    "estado": "São Paulo",
+    "nome_da_cidade": "Guarulhos",
+    "codigo_da_carta": "A01",
+    "populacao": 1349100,
+    "area_km2": 319.19,
+    "PIB": 55084.22,
+    "pontos_turisticos": 1035
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome_da_cidade": "Ouro Preto",
+    "codigo_da_carta": "B02",
+    "populacao": 77601,
+    "area_km2": 1245.3,
+    "PIB": 3146107,
+    "pontos_turisticos": 50
+  }
+]
 
