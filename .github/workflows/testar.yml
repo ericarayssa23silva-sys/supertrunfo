@@ -1,0 +1,19 @@
+name: Compilar e testar cartas
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v3
+
+      - name: Instalar compilador GCC
+        run: sudo apt-get install -y gcc
+
+      - name: Compilar o programa
+        run: gcc cartas.c -o cartas
+
+      - name: Executar o programa
+        run: ./cartas
