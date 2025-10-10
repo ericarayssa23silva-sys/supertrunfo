@@ -19,7 +19,6 @@ As cartas estão registradas em um arquivo JSON (`cartas.json`) e podem ser test
 
 3. **Compilação e Teste Automáticos**  
    - O GitHub Actions compila e executa o programa automaticamente usando o arquivo `.github/workflows/testar.yml`.  
-   - Cada commit acionará a automação e mostrará o resultado na aba **Actions** do repositório.
 
 ---
 
