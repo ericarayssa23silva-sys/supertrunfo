@@ -10,15 +10,6 @@
 2. **Código em C para Teste**  
    - O arquivo `cartas.c` contém um programa que cria structs para cada carta e imprime suas informações na tela.
 
-3. **Compilação e Teste Automáticos**  
-   - O GitHub Actions compila e executa o programa automaticamente usando o arquivo `.github/workflows/testar.yml`.  
-
----
-
-## Observações
-- Este projeto foi feito inteiramente no GitHub, sem necessidade de instalação local.  
-- O JSON funciona como banco de dados das cartas e pode ser facilmente expandido com novas cidades.
-
 ---
 
 ## Autor
